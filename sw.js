@@ -1,9 +1,24 @@
-const CACHE_NAME = "notepad1";
+const CACHE_NAME = "why2";
 const FILES_TO_CACHE = [
   "./",
   "./index.html",
   "./manifest.json",
-  "./sw.js"
+  "./sw.js",
+  "./favicon.ico",
+  "./LICENSE",
+  "./README.md",
+  "./RELNOTE.md",
+  "./app/media/icon.png",
+  "./app/media/icon.svg",
+  "./app/scripts/controls.js",
+  "./app/scripts/main.js",
+  "./app/scripts/texting.js",
+  "./app/stylesheets/app.css",
+  "./app/stylesheets/fontawesome.css",
+  "./app/webfonts/fa-brands-400.woff2",
+  "./app/webfonts/fa-regular-400.woff2",
+  "./app/webfonts/fa-solid-900.woff2",
+  "./app/webfonts/fa-v4compatibility.woff2"
 ];
 
 self.addEventListener("install", (event) => {
