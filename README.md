@@ -18,7 +18,7 @@ A basic PWA notepad built in JS
 
 ## Install
 ### As a normal app (PWA):
-- Visit https://why.exerinity.com
+- Visit https://scholia.exerinity.com
 - Press "Install" in the top left corner (or from the hamburger menu on mobile). If you do not see it, it's probably already installed or your browser does not support PWAs. In that case, the app should already be installed in your browser, just visit it any time.
 
 ### From source:
